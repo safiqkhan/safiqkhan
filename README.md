@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Python, AWS, Kubernetes & Terraform**
 
-- 👨‍💻 All of my projects are available at [github.com/Safiquddin](https://github.com/Safiquddin)
+- 👨‍💻 All of my projects are available at [Personal Github](https://github.com/Safiquddin)
 
 - 💬 Ask me about **DevOps, Bollywood & Technology**
 
 - 📫 You can reach me at **safiquddinkha@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/safiquddin-khan-73157150](https://www.linkedin.com/in/safiquddinkhan)
+- 📄 Know about my experiences [linkedin profile](https://www.linkedin.com/in/safiquddinkhan)
 
 - ⚡ Fun fact **Power naps is a booster for me**
 

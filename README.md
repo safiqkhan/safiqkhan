@@ -39,8 +39,8 @@
 </p>
 <!-- Add more icons for your languages and tools -->
 
-### Support:
-[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/Safiquddin)
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/Safiquddin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Safiquddin" /></a></p><br><br>
 
 ### Safiq's GitHub Activity Stats:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=safiqkhan&&theme=tokyonight)

@@ -39,11 +39,12 @@
 </p>
 <!-- Add more icons for your languages and tools -->
 
+### Support:
 [![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/Safiquddin)
 
 ### Safiq's GitHub Activity Stats:
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safiqkhan&&theme=tokyonight" alt="safiqkhan" /></p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=safiqkhan&&theme=tokyonight)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safiqkhan&show_icons=true&locale=en&layout=compact"  height="20" width="100" alt="safiqkhan" /></p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=safiqkhan&show_icons=true&locale=en&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safiqkhan&show_icons=true&locale=en" alt="safiqkhan" />  height="20" width="100" </p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=safiqkhan&show_icons=true&locale=en)

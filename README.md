@@ -49,10 +49,10 @@
 
 <h3 align="left">Safiq's GitHub activity stats:</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Safiquddin&&theme=tokyonight" alt="Safiquddin" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safiqkhan&&theme=tokyonight" alt="safiqkhan" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Safiquddin&show_icons=true&locale=en&layout=compact" alt="Safiquddin" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safiqkhan&show_icons=true&locale=en&layout=compact" alt="safiqkhan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Safiquddin&show_icons=true&locale=en" alt="Safiquddin" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safiqkhan&show_icons=true&locale=en" alt="safiqkhan" /></p>
 
 

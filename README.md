@@ -1,6 +1,6 @@
 ### 
 <h1 align="center">Hi There 👋, I'm Safiquddin Khan</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<h3 align="center">A passionate DevOps Engineer from Odisha</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Safiquddin&label=Profile%20views&color=0e75b6&style=flat" alt="Safiquddin" /> </p>
 

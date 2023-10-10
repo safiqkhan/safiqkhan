@@ -11,15 +11,12 @@
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/safiquddinkhan)
 - ⚡ Fun fact: Power naps are a booster for me
 
-### Connect with me:
-
-<p align="center">
-  <a href="https://in.linkedin.com/in/safiqkhan?trk=profile-badge">
-    <img src="https://www.linkedin.com/img/webpromo/btn_profile_b_blue-80x15.png" alt="LinkedIn Profile" width="80" height="15">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/safiquddin-khan-73157150/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="20" />
   </a>
 </p>
-
-[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Safiquddin%20Khan-blue)](https://www.linkedin.com/in/safiquddin-khan-73157150)
 
 ### Languages and Tools:
 <p align="center"> 

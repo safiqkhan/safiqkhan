@@ -12,7 +12,10 @@
 - ⚡ Fun fact: Power naps are a booster for me
 
 ### Connect with me:
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/safiquddin-khan-73157150/)
+<p align="left">
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="safiqkhan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/safiqkhan?trk=profile-badge">Safiquddin Khan</a></div>
+</p>
 
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Safiquddin%20Khan-blue)](https://www.linkedin.com/in/safiquddin-khan-73157150)
 

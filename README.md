@@ -16,8 +16,13 @@
   <a href="https://www.linkedin.com/in/safiquddin-khan-73157150/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
   </a>
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="safiqkhan" data-version="v1">
+  <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/safiqkhan?trk=profile-badge">Safiquddin Khan</a>
+</div>
 </p>
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="safiqkhan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/safiqkhan?trk=profile-badge">Safiquddin Khan</a></div>
+              
 ### Languages and Tools:
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="40" height="40">

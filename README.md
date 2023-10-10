@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/safiquddin-khan-73157150/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="20" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
   </a>
 </p>
 
@@ -40,7 +40,7 @@
 <!-- Add more icons for your languages and tools -->
 
 ### Support:
-<p><a href="https://www.buymeacoffee.com/Safiquddin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="100" alt="Safiquddin" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/Safiquddin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="200" alt="Safiquddin" /></a></p><br><br>
 
 ### Safiq's GitHub Activity Stats:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=safiqkhan&&theme=tokyonight)

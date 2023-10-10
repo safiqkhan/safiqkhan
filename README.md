@@ -39,12 +39,11 @@
 </p>
 <!-- Add more icons for your languages and tools -->
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Safiquddin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Safiquddin" /></a></p><br><br>
+[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/Safiquddin)
 
 ### Safiq's GitHub Activity Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=safiqkhan&&theme=tokyonight)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safiqkhan&&theme=tokyonight" alt="safiqkhan" /></p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=safiqkhan&show_icons=true&locale=en&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safiqkhan&show_icons=true&locale=en&layout=compact"  height="20" width="100" alt="safiqkhan" /></p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=safiqkhan&show_icons=true&locale=en)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safiqkhan&show_icons=true&locale=en" alt="safiqkhan" />  height="20" width="100" </p>

@@ -1,14 +1,14 @@
 <h1 align="center">Hi There 👋, I'm Safiquddin </h1>
 <h3 align="center">A passionate DevOps Engineer from Odisha</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Safiquddin&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=safiqkhan&label=Profile%20views&color=0e75b6&style=flat)
 
 - 🔭 I’m currently working on [Terraform Automation](https://registry.terraform.io/providers/hashicorp/aws/latest)
 - 🌱 I’m currently learning Python, AWS, Kubernetes & Terraform
 - 👨‍💻 All of my projects are also available at [Personal GitHub](https://github.com/Safiquddin)
 - 💬 Ask me about DevOps, Bollywood & Technology
 - 📫 You can reach me at [safiquddinkha@gmail.com](mailto:safiquddinkha@gmail.com)
-- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/safiquddinkhan)
+- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/safiqkhan/details/experience/)
 - ⚡ Fun fact: Power naps are a booster for me
 
 <h3 align="left">Connect with me:</h3>
